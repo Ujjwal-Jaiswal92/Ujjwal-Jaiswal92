@@ -27,10 +27,25 @@ I'm a BEIT student at NCIT, Nepal, learning to build reliable software from the 
 
 ### `github.analytics`
 
+
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Jaiswal92&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Jaiswal92&layout=compact&theme=tokyonight&hide_border=true" alt="Repository language statistics"/>
+  <img
+    src="https://ghstats.dev/api/card?username=Ujjwal-Jaiswal92&theme=tokyonight"
+    alt="GitHub Profile Statistics"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/langs?username=Ujjwal-Jaiswal92&theme=tokyonight&layout=compact"
+    alt="Most Used Programming Languages"
+  />
+</p>
+
+
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Ujjwal-Jaiswal92&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
