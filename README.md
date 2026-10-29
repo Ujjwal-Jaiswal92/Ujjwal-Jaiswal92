@@ -4,7 +4,7 @@
 # UJJWAL JAISWAL
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=BEIT+Student+%7C+Nepal;Python+%26+Backend+Development;Learning+FastAPI+%26+Databases;Building+Toward+YOUR+CLOUD" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=BEIT+Student+%7C+Nepal" alt="Animated introduction"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ujjwal--Jaiswal92-181717?style=for-the-badge&logo=github)](https://github.com/Ujjwal-Jaiswal92)
 
